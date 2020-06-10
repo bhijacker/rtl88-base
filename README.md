@@ -1,5 +1,3 @@
-THIS IS THE MIRROR OF LWFINGER REPOSITORY
-
 rtlwifi_new
 ===========
 ### A repo for the newest Realtek rtlwifi codes.
